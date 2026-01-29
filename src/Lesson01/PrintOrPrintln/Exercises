@@ -1,0 +1,10 @@
+1. Change the WriteToNewLine02 sourcecode, such that all the text should be in one line.
+2. Change the WriteToNewLine02 sourcecode, such that the output should look like this:
+"Hej Sofie! Du er 20 år gammel, 10 år yngre end mig. Velkommen til Java."
+3. Write a program that prints a name tag like this:
+******************
+*     ANIZ       *
+*   ANIZ@ek.dk   *
+******************
+
+4. ADVANCED: Change WriteToNewLine01 to the style of WriteToConsol04. If you can do this, Wow!
